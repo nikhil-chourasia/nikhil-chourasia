@@ -17,12 +17,6 @@
 ### 💌 Connect with Me  
 🐦 Twitter: [@nikhil_py](https://twitter.com/nikhil_py)  
 
-✨ **Developer by day, debugger by night.**
-
-Or...
-
-👽 **While (coffee) { code(); }** ☕
-
 🤖 **01001110 01101001 01101011 01101000 01101001 01101100** (If you can read this, you’re cool.)
 
 ---
