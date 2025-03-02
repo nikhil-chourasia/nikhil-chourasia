@@ -10,7 +10,7 @@
 - 🎬 **[Netflix Clone](https://github.com/nikhil-chourasia/Netflix-Clone)** – A frontend replica of Netflix using **HTML & CSS**.  
 - ⌨️ **[MonkeyType CLI](https://github.com/nikhil-chourasia/CLI-Version-of-MonkeyType)** – A terminal-based typing speed tester built in **Python**.  
 - 📊 **[GitHub User Activity Tracker](https://github.com/nikhil-chourasia/GitHub-User-Activity)** – Tracks GitHub activity using **Python & APIs**.
-- 🔍 **[Dict-ective](https://github.com/nikhil-chourasia/Word-Guessing-Game) – A Python word guessing game that challenges your vocabulary.
+- 🔍 **[Dict-ective](https://github.com/nikhil-chourasia/Word-Guessing-Game)** – A Python word guessing game that challenges your vocabulary.
 
 ### 📚 Learning  
 - 🧠 **AI/ML** – Exploring the world of artificial intelligence and machine learning.  
